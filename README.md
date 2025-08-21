@@ -1,12 +1,12 @@
 # <div align="center">BHART CHAUHAN</div>
-### <div align="center">📊 Senior Data Analyst & Business Intelligence Specialist</div>
+### <div align="center">📊 Data Analyst</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Senior+Data+Analyst+%7C+Business+Intelligence+Expert;Driving+Strategic+Decisions+Through+Data+Science;Advanced+Analytics+%7C+Machine+Learning+%7C+Statistical+Modeling;Transforming+Complex+Data+into+Business+Value" alt="Professional Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Making+Sense+of+Data;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Learning+Machine+Learning+%26+Advanced+Analytics;Passionate+About+Data+Visualization" alt="Professional Headline" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=200&section=header&text=Data%20Science%20Professional&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Business%20Intelligence%20|%20Advanced%20Analytics%20|%20Strategic%20Insights&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=200&section=header&text=Data%20Analyst&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Learning%20|%20Growing%20|%20Analyzing&descAlignY=55&descSize=18" />
 </div>
 
 <img align="right" alt="Professional Data Analytics" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -20,13 +20,13 @@
 
 ## 🎯 **EXECUTIVE SUMMARY**
 
-**Data Analyst** with 3+ years of experience in business intelligence, statistical modeling, and data-driven strategy development. Proven expertise in transforming complex multi-dimensional datasets into actionable business insights that drive revenue growth and operational efficiency. Specialized in end-to-end analytics solutions across finance, marketing, and operations domains.
+**Data Analyst** passionate about transforming raw data into meaningful insights. Currently learning advanced analytics and machine learning techniques. Experienced in Python, SQL, Excel, Power BI, and Tableau for data analysis and visualization projects.
 
-### **🏆 KEY ACHIEVEMENTS**
-- **25+ Executive Dashboards** delivered across multiple business units
-- **$2M+ Business Impact** through data-driven optimization initiatives
-- **40% Efficiency Improvement** in reporting processes through automation
-- **15+ Predictive Models** deployed for forecasting and risk assessment
+### **🌱 Currently Learning**
+- Machine Learning algorithms and implementation
+- Advanced statistical analysis techniques  
+- Big data technologies and cloud platforms
+- Business intelligence best practices
 
 ## 🏢 **PROFESSIONAL EXPERTISE**
 
