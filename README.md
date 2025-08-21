@@ -211,7 +211,7 @@ professional_development = {
 ## 💡 **PROFESSIONAL PHILOSOPHY**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Data%20is%20not%20just%20numbers.%20It's%20the%20foundation%20of%20every%20strategic%20decision%20that%20shapes%20the%20future%20of%20business.&author=Bharti%20Chauhan" alt="Professional Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Data%20is%20not%20just%20numbers.%20It's%20the%20foundation%20of%20every%20strategic%20decision%20that%20shapes%20the%20future%20of%20business.&author=Bhart%20Chauhan" alt="Professional Quote"/>
 </div>
 
 ### **🎯 ANALYTICAL APPROACH**
