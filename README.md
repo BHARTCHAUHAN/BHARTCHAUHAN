@@ -14,6 +14,7 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=bhartchauhan&label=PROFILE+VIEWS&color=1e90ff&style=for-the-badge" alt="profile views" /> 
   <img src="https://img.shields.io/github/followers/bhartchauhan?label=NETWORK&style=for-the-badge&color=0066cc" alt="followers" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-3%2B%20YEARS-brightgreen?style=for-the-badge" alt="experience"/>
   <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-success?style=for-the-badge" alt="status"/>
 </div>
 
