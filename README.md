@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=200&section=header&text=Data%20Science%20&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Business%20Intelligence%20|%20Advanced%20Analytics%20|%20Strategic%20Insights&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=200&section=header&text=Data%20Analyst%20&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Business%20Intelligence%20|%20Advanced%20Analytics%20|%20Strategic%20Insights&descAlignY=55&descSize=18" />
 </div>
 
 <img align="right" alt="Professional Data Analytics" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
