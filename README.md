@@ -6,10 +6,10 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=200&section=header&text=Data%20Analyst%20&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Business%20Intelligence%20|%20Advanced%20Analytics%20|%20Strategic%20Insights&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=200&section=header&text=Data%20Science%20&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Business%20Intelligence%20|%20Advanced%20Analytics%20|%20Strategic%20Insights&descAlignY=55&descSize=18" />
 </div>
 
-<img align="right" alt="Data Analytics" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Professional Data Analytics" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=bhartchauhan&label=PROFILE+VIEWS&color=1e90ff&style=for-the-badge" alt="profile views" /> 
@@ -19,7 +19,7 @@
 
 ## 🎯 **EXECUTIVE SUMMARY**
 
-**Data Analyst** Proven expertise in transforming complex multi-dimensional datasets into actionable business insights that drive revenue growth and operational efficiency. Specialized in end-to-end analytics solutions across finance, marketing, and operations domains.
+**Senior Data Analyst** with 3+ years of experience in business intelligence, statistical modeling, and data-driven strategy development. Proven expertise in transforming complex multi-dimensional datasets into actionable business insights that drive revenue growth and operational efficiency. Specialized in end-to-end analytics solutions across finance, marketing, and operations domains.
 
 ### **🏆 KEY ACHIEVEMENTS**
 - **25+ Executive Dashboards** delivered across multiple business units
