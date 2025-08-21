@@ -20,43 +20,13 @@
 
 ## 🎯 **EXECUTIVE SUMMARY**
 
-**Senior Data Analyst** with 3+ years of experience in business intelligence, statistical modeling, and data-driven strategy development. Proven expertise in transforming complex multi-dimensional datasets into actionable business insights that drive revenue growth and operational efficiency. Specialized in end-to-end analytics solutions across finance, marketing, and operations domains.
+**Data Analyst** “I’m a curious and detail-oriented Data Analyst who loves turning raw data into meaningful insights. Experienced with SQL, Excel, Python, and tools like Tableau/Power BI to spot trends and help teams make smarter decisions. I enjoy solving problems and finding patterns that really make a difference.”
 
 ### **🏆 KEY ACHIEVEMENTS**
-- **25+ Executive Dashboards** delivered across multiple business units
-- **$2M+ Business Impact** through data-driven optimization initiatives
-- **40% Efficiency Improvement** in reporting processes through automation
-- **15+ Predictive Models** deployed for forecasting and risk assessment
-
-## 🏢 **PROFESSIONAL EXPERTISE**
-
-### **📊 CORE ANALYTICAL COMPETENCIES**
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/64/000000/business-analytics.png"/>
-        <br><strong>Statistical Analysis</strong>
-        <br><small>Hypothesis Testing • Regression • ANOVA • Time Series</small>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/64/000000/artificial-intelligence.png"/>
-        <br><strong>Machine Learning</strong>
-        <br><small>Predictive Modeling • Classification • Clustering • Feature Engineering</small>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/64/000000/dashboard-layout.png"/>
-        <br><strong>Business Intelligence</strong>
-        <br><small>KPI Development • Executive Reporting • Data Warehousing</small>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/64/000000/data-recovery.png"/>
-        <br><strong>Data Engineering</strong>
-        <br><small>ETL Pipelines • Data Quality • Process Automation</small>
-      </td>
-    </tr>
-  </table>
-</div>
+- **Completed 5+** data analysis projects using Python, SQL, and Excel
+- Built interactive dashboards in Tableau/Power BI for academic or personal projects
+- Developed predictive models in Python for small datasets during coursework
+- Strong understanding of data cleaning, visualization, and basic statistical analysis
 
 ### **🎯 INDUSTRY SPECIALIZATIONS**
 
