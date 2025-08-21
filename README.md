@@ -1,12 +1,12 @@
-# <div align="center">BHART CHAUHAN</div>
-### <div align="center">📊 Data Analyst & Business Intelligence Specialist</div>
+# <div align="center">BHARTI CHAUHAN</div>
+### <div align="center">📊 Senior Data Analyst & Business Intelligence Specialist</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Business+Intelligence+Expert;Driving+Strategic+Decisions+Through+Data+Science;Advanced+Analytics+%7C+Machine+Learning+%7C+Statistical+Modeling;Transforming+Complex+Data+into+Business+Value" alt="Professional Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Senior+Data+Analyst+%7C+Business+Intelligence+Expert;Driving+Strategic+Decisions+Through+Data+Science;Advanced+Analytics+%7C+Machine+Learning+%7C+Statistical+Modeling;Transforming+Complex+Data+into+Business+Value" alt="Professional Headline" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=200&section=header&text=Data%20Analyst%20&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Business%20Intelligence%20|%20Advanced%20Analytics%20|%20Strategic%20Insights&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=200&section=header&text=Data%20Science%20Professional&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Business%20Intelligence%20|%20Advanced%20Analytics%20|%20Strategic%20Insights&descAlignY=55&descSize=18" />
 </div>
 
 <img align="right" alt="Professional Data Analytics" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
