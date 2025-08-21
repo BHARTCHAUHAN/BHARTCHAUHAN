@@ -1,4 +1,4 @@
-# <div align="center">BHARTI CHAUHAN</div>
+# <div align="center">BHART CHAUHAN</div>
 ### <div align="center">📊 Senior Data Analyst & Business Intelligence Specialist</div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 ## 🎯 **EXECUTIVE SUMMARY**
 
-**Senior Data Analyst** with 3+ years of experience in business intelligence, statistical modeling, and data-driven strategy development. Proven expertise in transforming complex multi-dimensional datasets into actionable business insights that drive revenue growth and operational efficiency. Specialized in end-to-end analytics solutions across finance, marketing, and operations domains.
+**Data Analyst** with 3+ years of experience in business intelligence, statistical modeling, and data-driven strategy development. Proven expertise in transforming complex multi-dimensional datasets into actionable business insights that drive revenue growth and operational efficiency. Specialized in end-to-end analytics solutions across finance, marketing, and operations domains.
 
 ### **🏆 KEY ACHIEVEMENTS**
 - **25+ Executive Dashboards** delivered across multiple business units
