@@ -151,14 +151,14 @@ professional_development = {
 
 <div align="center">
   
-| **DOMAIN** | **TECHNOLOGIES** | **PROFICIENCY** |
+| **DOMAIN** | **TECHNOLOGIES** | **PROFICIENCY** ||
 |:---:|:---|:---:|:---:|
-| **📊 Data Analysis** | Python, R, Pandas, NumPy, SciPy | ⭐⭐⭐⭐⭐ |
-| **🗄️ Database Management** | SQL, MySQL, PostgreSQL, NoSQL | ⭐⭐⭐⭐⭐ | 
-| **📈 Visualization** | Power BI, Tableau, Matplotlib, Plotly, Seaborn | ⭐⭐⭐⭐⭐ |
-| **🤖 Machine Learning** | Scikit-learn, TensorFlow, XGBoost, Feature Engineering | ⭐⭐⭐⭐ |
-| **☁️ Cloud Analytics** | AWS, Google Cloud, Azure Machine Learning | ⭐⭐⭐ |
-| **⚙️ Automation** | Python Scripting, VBA, Power Query, ETL Pipelines | ⭐⭐⭐⭐⭐ |
+| **📊 Data Analysis** | Python, R, Pandas, NumPy, SciPy | ⭐⭐⭐⭐⭐ ||
+| **🗄️ Database Management** | SQL, MySQL, PostgreSQL, NoSQL | ⭐⭐⭐⭐⭐ ||
+| **📈 Visualization** | Power BI, Tableau, Matplotlib, Plotly, Seaborn | ⭐⭐⭐⭐⭐ ||
+| **🤖 Machine Learning** | Scikit-learn, TensorFlow, XGBoost, Feature Engineering | ⭐⭐⭐⭐ ||
+| **☁️ Cloud Analytics** | AWS, Google Cloud, Azure Machine Learning | ⭐⭐⭐ ||
+| **⚙️ Automation** | Python Scripting, VBA, Power Query, ETL Pipelines | ⭐⭐⭐⭐⭐ ||
 
 </div>
 
