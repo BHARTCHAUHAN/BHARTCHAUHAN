@@ -28,19 +28,9 @@
 - Developed predictive models in Python for small datasets during coursework
 - Strong understanding of data cleaning, visualization, and basic statistical analysis
 
-### **🎯 INDUSTRY SPECIALIZATIONS**
-
-| **SECTOR** | **APPLICATIONS** | **EXPERTISE LEVEL** |
-|:---:|:---|:---:|
-| **💰 Financial Services** | Risk Analytics, Credit Scoring, Fraud Detection, Portfolio Analysis | ⭐⭐⭐⭐⭐ |
-| **🛒 Retail & E-commerce** | Customer Segmentation, Demand Forecasting, Price Optimization | ⭐⭐⭐⭐⭐ |
-| **📱 Digital Marketing** | Campaign ROI, Attribution Modeling, Conversion Analytics | ⭐⭐⭐⭐ |
-| **🏭 Operations & Supply Chain** | Inventory Optimization, Quality Control, Performance Metrics | ⭐⭐⭐⭐ |
-| **💊 Healthcare Analytics** | Patient Analytics, Operational Efficiency, Outcome Prediction | ⭐⭐⭐ |
-
 ## 🛠️ **TECHNOLOGY STACK PROFICIENCY**
 
-### **📊 DATA SCIENCE & ANALYTICS**
+### **📊 DATA ANALYTICS**
 <div align="center">
   <img src="https://img.shields.io/badge/Python-Expert%20Level-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1f2937"/>
   <img src="https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=1f2937"/>
@@ -161,14 +151,14 @@ professional_development = {
 
 <div align="center">
   
-| **DOMAIN** | **TECHNOLOGIES** | **PROFICIENCY** | **YEARS EXP** |
+| **DOMAIN** | **TECHNOLOGIES** | **PROFICIENCY** |
 |:---:|:---|:---:|:---:|
-| **📊 Data Analysis** | Python, R, Pandas, NumPy, SciPy | ⭐⭐⭐⭐⭐ | 3+ |
-| **🗄️ Database Management** | SQL, MySQL, PostgreSQL, NoSQL | ⭐⭐⭐⭐⭐ | 3+ |
-| **📈 Visualization** | Power BI, Tableau, Matplotlib, Plotly, Seaborn | ⭐⭐⭐⭐⭐ | 3+ |
-| **🤖 Machine Learning** | Scikit-learn, TensorFlow, XGBoost, Feature Engineering | ⭐⭐⭐⭐ | 2+ |
-| **☁️ Cloud Analytics** | AWS, Google Cloud, Azure Machine Learning | ⭐⭐⭐ | 1+ |
-| **⚙️ Automation** | Python Scripting, VBA, Power Query, ETL Pipelines | ⭐⭐⭐⭐⭐ | 3+ |
+| **📊 Data Analysis** | Python, R, Pandas, NumPy, SciPy | ⭐⭐⭐⭐⭐ |
+| **🗄️ Database Management** | SQL, MySQL, PostgreSQL, NoSQL | ⭐⭐⭐⭐⭐ | 
+| **📈 Visualization** | Power BI, Tableau, Matplotlib, Plotly, Seaborn | ⭐⭐⭐⭐⭐ |
+| **🤖 Machine Learning** | Scikit-learn, TensorFlow, XGBoost, Feature Engineering | ⭐⭐⭐⭐ |
+| **☁️ Cloud Analytics** | AWS, Google Cloud, Azure Machine Learning | ⭐⭐⭐ |
+| **⚙️ Automation** | Python Scripting, VBA, Power Query, ETL Pipelines | ⭐⭐⭐⭐⭐ |
 
 </div>
 
